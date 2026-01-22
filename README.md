@@ -1,5 +1,7 @@
 # juliusperks.github.io
 
+https://roadmap.sh/projects/basic-dns
+
 **DNS Basics: Custom Domain Setup Tutorial**
 
 **Prerequisites:**
